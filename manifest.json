@@ -9,6 +9,7 @@
    } ],
    "web_accessible_resources": ["content.js"],
    "name": "Shopify Theme Validator",
+   "manifest_version": 3,
    "permissions": [ "tabs" ],
    "short_name": "Shopify Theme Validator",
    "version": "0.1"
