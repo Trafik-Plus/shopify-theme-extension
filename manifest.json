@@ -19,5 +19,5 @@
    "manifest_version": 3,
    "permissions": [ "tabs" ],
    "short_name": "Shopify Theme Validator",
-   "version": "0.1"
+   "version": "0.2"
 }
